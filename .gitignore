@@ -1,0 +1,15 @@
+# Dependency
+node_modules
+
+# Build
+dist
+
+# Environment Secrets
+.env
+!.env.template
+
+# MacOS
+.DS_Store
+
+
+yarn.lock

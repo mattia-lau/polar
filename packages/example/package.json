@@ -1,0 +1,23 @@
+{
+  "name": "@polar/example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "Mattia LAU <siuwingabc1997@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "scripts": {
+    "start:dev": "ts-node-dev --respawn --transpile-only src/main.ts"
+  },
+  "dependencies": {
+    "@polar/compose": "^0.0.1",
+    "@polar/core": "^0.0.1",
+    "@polar/router": "^0.0.1",
+    "@polar/types": "^0.0.1",
+    "ts-node-dev": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
