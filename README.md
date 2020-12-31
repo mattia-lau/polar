@@ -2,7 +2,7 @@
 
 A next generation Tiny Web Framework. To support both TypeScript and JavaScript. Add decorators supprt TypeScript for RAD.
 
-Even have many great frameworks, such as `Nest.js`, `express.js`, `koa.js`. But most of them are not peeflect.
+Even have many great frameworks, such as `Nest.js`, `express.js`, `koa.js`. But most of them are not perflect.
 
 # Benchmark
 
@@ -25,9 +25,9 @@ autocannon -c 1024 -t30 http://localhost:3000/test
 
 # TODO
 
-[x] Demo site
-[x] Router
-[ ] Error Handling
-[ ] Human Readable Http Exceptions
-[ ] Decorators
-[ ] Documentation
+[x] Demo site  
+[x] Router  
+[ ] Error Handling  
+[ ] Human Readable Http Exceptions  
+[ ] Decorators  
+[ ] Documentation  
